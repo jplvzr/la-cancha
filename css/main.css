@@ -1,1 +1,37 @@
-/* Inserta tu CSS aqui */
+div {
+	background-color: #8CB27C;
+}
+.padre {
+	width: 850px;
+	height: 550px;
+	position: relative;
+}
+.borde-cancha {
+	width: 800px;
+	height: 500px;
+	border: 1px solid white;
+	position: absolute;
+	top: 25px;
+	left: 25px;
+}
+.dibujo-cancha {
+	width: 125px;
+	height: 250px;
+	border: 1px solid white;
+	position: absolute;
+}
+.left {
+	top: 125px;
+	left: 0px;
+}
+.center {
+	width: 250px;
+	height: 250px;
+	top: 125px;
+	left: 275px;
+	border-radius: 50%;
+}
+.right {
+	top: 125px;
+	right: 0px;
+}
