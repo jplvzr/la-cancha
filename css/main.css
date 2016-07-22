@@ -35,3 +35,18 @@ div {
 	top: 125px;
 	right: 0px;
 }
+.balon {
+	position: absolute;
+}
+.izquierda {
+	top: 130px;
+	left: 114.5px;
+}
+.centro {
+	top: 60px;
+	left: 410px;
+}
+.derecha {
+	bottom: 125px ;
+	right: 130px;
+}
